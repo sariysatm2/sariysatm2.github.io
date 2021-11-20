@@ -1,33 +1,63 @@
 <html>
 <head>
-<title> PELÍCULA </title>
+<title> LIBRO </title>
 <style>
-	.info{
-		background: rgb (191, 251, 237)
-		height: 150px;
-        width: 70%;
-        overflow: auto;
-	}
+p {
+            color:rgb(  125, 60, 152 );
+        }
+.info{
+background: rgb(191, 201, 202);
+     
+       
+<img src="HEATHER MORRIS.jpg" width="300" height="400">
+       .photo {
+                width: 400px;
+                border: 10px ridge;
+                margin: 15px;
+}
 
 h1 {
-color :rgb(240, 128, 128)
+color :rgb( 6, 6, 6);
 }
+
+p {
+            color:rgb(  125, 60, 152 );
+        }
 </style>
 
 </head>
 
-<body bgcolor= "lighpink">
-<p style="font-family:verdana"> EL TATUADOR DE AUSWITCH</p>
-<blockquote> 
-<blockquote>
-<blockquote>
-	
-<p style="font-family:'Courier New'"> RESUMEN </p>
-<div class="info">
-<p> El tatuador de auswitch está basada en la gran historia real de Lale y Gita Sokolov, dos judíos eslovacos que consiguieron, contra todo pronóstico, sobrevivir al Holocausto.
-Para Lale, los días transcurren entre el horror y su trabajo como tatuador de prisioneros. Entre estos prisioneros se encuentra Gita, una joven de la que queda enamorado. En ese momento, la vida de Lale cobrará un nuevo sentido y hará todon lo posible para que Gita y el resto de prisioneros sobrevivan.
-Después de la guerra, deciden mudarse a Australia para poder comenzar de nuevo. Tras la muerte de Gita, Lale siente el peso de su pasado y la irremediable necesidad de contarlo.
-Esta es su historia. </p> </div>
-</blockquote>  
-</blockquote>
-</blockquote> 
+<body> <div class="info">
+<p style="font-family:'Courier New'"> <h1> EL TATUADOR DE AUSWITCH </h1> </p>
+<style>
+h2 {
+color :rgb(211, 84, 0);
+}
+
+            #Hesather Morris {
+                background: rgb(255, 255, 0);
+                border: 2px solid black;
+            #img src="HEATHER MORRIS.jpg" {
+                position: absolute;
+                top:60px;
+                left:50px;
+                z-index:1
+
+</style>
+
+<p style="font-family:'Courier New'"> <h2> AUTOR </h2> </p>
+
+<p> <strong> <em>Heather Morris</em> </strong>nacida en <strong> <em> Te Awamutu, Nueva Zelanda, </em> </strong>se mudó en 1971 a Melbourne y se casó con su esposo Steve Morris en 1973.
+
+Regresó a Nueva Zelanda en 1975 con su familia, comenzó a estudiar en la Universidad de Monash y se especializó en Ciencias Políticas. Trabajó en el Departamento de Trabajo Social en el Centro Médico Monash en Melbourne hasta 2017. Mientras siguió su pasión por la narración de historias formándose en escritura de guiones asistiendo a seminarios y talleres.
+
+En 2003 conoció a Lale Sokolov, un anciano que le contó su historia en el Holocausto y que Morris convirtió en un guion cinematográfico y después en su primera novela <strong> <em> El tatuador de Auschwitz. </em> </strong> De esta misma historia surgió su siguiente obra, <strong> <em> El viaje de Cilka. </em> </strong> </p>
+<ul>
+	<il> <a href="resumen">Resumen</a> </il>
+	<il> <a href="personajes">Personajes</a> </il>
+	<il> <a href="valoración personal">Valoración personal</a> </il>
+</ul>
+
+</style>
+</body>
+</html>
