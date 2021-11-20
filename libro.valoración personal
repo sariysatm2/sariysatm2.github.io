@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> LIBRO </title>
+<style>
+p {
+            color:rgb(  125, 60, 152 );
+        }
+.info{
+background: rgb(191, 201, 202);
+
+h1 {
+color :rgb(  185, 119, 14 );
+}
+
+p {
+            color:rgb(  185, 119, 14  );
+        }
+</style>
+
+</head>
+
+<body> <div class="info">
+<p style="font-family:'Courier New'"> <h1> VALORACIÓN PERSONAL </h1> </p>
+<p> Me ha gustado este libro porque se dan muchos detalles que ayudan a entender y situar al lector en el lugar de los hechos, además de intentar explicar como vivieron los protagonistas su historia, entre otros.
+He leído varias historias sobre los campos de concentración y nunca me pude imaginar, que en aquellas circunstancias tan malas pudiese surgir un amor tan bonito y verdadero como el de Lale y Gita.
+Me alegro de haber podido leer esta novela, ya no porque me parezcan interesantes los temas e historias del Holocausto, sino porque demuestra que de momentos grises pueden salir momentos alegres llenos de color. En este caso sería la historia de Lale y Gita.
+El libro en general está muy bien narrado, pero me hubiera gustado saber algunos datos más de los protagonistas como en el final por ejemplo. </p>
+
+
+</style>
+</body>
+</html>
